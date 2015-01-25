@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakePHP framework
 
 [![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
@@ -72,3 +73,6 @@ Get Support!
 [![Bake Status](https://secure.travis-ci.org/cakephp/cakephp.png?branch=3.0)](http://travis-ci.org/cakephp/cakephp)
 
 ![Cake Power](https://raw.github.com/cakephp/cakephp/master/lib/Cake/Console/Templates/skel/webroot/img/cake.power.gif)
+=======
+# PRJ
+>>>>>>> cc91e488a457c36282a48e3e51aebb34b556d055
